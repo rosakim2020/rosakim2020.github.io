@@ -1,0 +1,41 @@
+/* I'm going to make the h1 awesome */
+body {
+    background-image
+}
+h1 {
+    color: red;
+    font-size: 40px;
+}
+
+p{
+    color: green;
+}
+
+#first {
+    color: purple;
+}
+
+#first {
+    color: red;
+}
+
+#second{
+    color: orange;
+}
+
+#warm {
+    width: 100px;
+}
+
+#cold {
+    width: 200px;
+}
+
+p.tacos.pizza {
+    color: yellow;
+
+}
+
+p a img {
+    width: 600;
+}
