@@ -10,12 +10,13 @@ a.navbar-brand img{
 }
 .jumbotron{
     background-color: white;
-    background-image: url(curator.jpg);
+    background-image: url(cover.jpg);
     background-repeat: no-repeat;
     background-size: auto;
     background-position: right;
     height: 300px;
     padding-top: 50px;
+    text-align: right;
 }
 .img
 {
