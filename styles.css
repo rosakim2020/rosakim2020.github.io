@@ -8,16 +8,63 @@ body{
 a.navbar-brand img{
     width: 100px;
 }
-.jumbotron{
+#primary01{
     background-color: white;
     background-image: url(curator.jpg);
     background-repeat: no-repeat;
     background-size: auto;
     background-position: right;
-    height: 300px;
+    height: 250px;
     padding-top: 50px;
 }
+
+#primary11{
+    background-color: white;
+    background-image: url(cover.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: right;
+    height: 300px;
+    padding-top: 50px;
+    text-align: right;
+}
+
+#primary12{
+    background-color: white;
+    background-image: url(styles.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: right;
+    height: 300px;
+    padding-top: 70px;
+    text-align: right;
+}
+
+#primary21{
+    background-color: rgba(0, 0, 0, .05);
+    background-image: url(blog.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: right;
+    height: 450px;
+    padding-top: 50px;
+    text-align: left;
+}
+
 .img
 {
-    padding: 10px 3px 7px 0;
+    size: 100%;
+}
+
+.c-heading {
+    padding-left: 25px;
+    padding-top:10px;
+}
+
+.c-paragraph{
+    padding-left: 25px;
+}
+
+.c-call-to-action{
+    padding-left: 25px;
 }
